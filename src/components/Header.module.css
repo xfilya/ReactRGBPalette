@@ -1,0 +1,6 @@
+.header {
+  background: linear-gradient(90deg, #ff6a00 0%, #00c853 50%, #0091ff 100%);
+  color: white;
+  font-weight: bold;
+  padding: 20px 10px;
+}
